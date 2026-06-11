@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+uploads/
+downloads/
+*.pptx
+*.pdf
+*.docx
+.env.local
+.env.*.local
